@@ -1,10 +1,10 @@
--👋 Hi, I’m **Naresh Kumar**
--🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science**
--👀 I’m passionate about **Data Analysis, Machine Learning, and NLP**
--🌱 I’m learning and exploring tools like **Python, MySQL, Power BI, and Pandas**
--💡 I enjoy turning data into meaningful insights and real-world solutions
--💞️ I’m looking to collaborate on **data-driven projects and AI-based applications**
--📫 Reach me at:[nareshkumaraids@gmail.com]
+- 👋 Hi, I’m **Naresh Kumar**
+- 🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science**
+- 👀 I’m passionate about **Data Analysis, Machine Learning, and NLP**
+- 🌱 I’m learning and exploring tools like **Python, MySQL, Power BI, and Pandas**
+- 💡 I enjoy turning data into meaningful insights and real-world solutions
+- 💞️ I’m looking to collaborate on **data-driven projects and AI-based applications**
+- 📫 Reach me at:[nareshkumaraids@gmail.com]
 
 
 <!---
